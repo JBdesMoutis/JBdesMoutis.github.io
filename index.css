@@ -2,7 +2,18 @@ h2 {
     background-color: grey;
 }
 
-.experience {
+.corps {
     display: flex;
-    
+    flex-direction: column;
+
+}
+
+.entete {
+    display: flex;
+    flex-direction: row;
+}
+
+#infos {
+    display: flex;
+    flex-direction: column;
 }
